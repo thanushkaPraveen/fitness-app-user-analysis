@@ -7,6 +7,13 @@ This project is a comprehensive case study analyzing user data from a fictional 
 
 The primary goal is to translate data-driven insights into an actionable roadmap for improving the application's user engagement and personalizing its features responsibly.
 
+## Interactive Dashboard Prototype
+
+To demonstrate the practical application of this analysis for business intelligence, an interactive dashboard was developed using Streamlit. It allows non-technical stakeholders to explore user data, filter by demographics, and visualize key trends without writing any code.
+
+![Fitness App Dashboard Prototype](assets/dashboard_prototype.png)
+![Fitness App Dashboard Prototype](assets/dashboard_prototype_1.png)
+
 ## Repository Structure
 
 - **/data:** Contains the raw dataset (`fitness_app_user_dataset.csv`).
